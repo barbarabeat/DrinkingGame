@@ -5,4 +5,11 @@ describe('Drinking Game tests', () => {
   
     expect(game(0,0)).toBe("Non-drinkers can't play");
   });
+
+  test("If the quantity (A and B) is equal, Mike wins", () => {
+    const a = 1;
+    const b = 1;
+
+    expect(game(a,b)).toBe("Mike wins!");
+  });  
   })
