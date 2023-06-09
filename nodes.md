@@ -40,5 +40,5 @@ Domain and tests written, tests done until 4;
 Pomodoro interrupted at 3 minutes.
 
 Session 2 🍅:
-
-
+Tests 4,5 and 6. A little refactor.
+Pomodoro finished at 18 minutes.

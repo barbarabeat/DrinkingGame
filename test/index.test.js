@@ -32,5 +32,12 @@ describe('Drinking Game tests', () => {
     const b = 13;
 
     expect(game(a,b)).toBe("Mike wins!");
-  });   
+  });  
+  
+  test("If B is bigger, Joe wins;", () => {
+    const a = 12;
+    const b = 13;
+
+    expect(game(a,b)).toBe("Joe wins!");
+  });    
   })
