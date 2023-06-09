@@ -27,7 +27,13 @@ Domain:
 - Else, the result is who winner the game.
 
 Tests:
-    - 1.  ✅
+    - 1. If Mike and Joe don't drink, it should be "Non-drinkers can't play";
+    - 2. If the quantity (A and B) is equal, Mike wins;
+    - 3. If A is 4 and B is 3, Mike wins;
+    - 4. If A is 5 and B is 6, Joe wins;
+    - 5. If A is bigger, Mike wins;
+    - 6. If B is bigger, Joe wins;
+    ✅
 
 Session 1 🍅:
 
