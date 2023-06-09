@@ -19,4 +19,11 @@ describe('Drinking Game tests', () => {
 
     expect(game(a,b)).toBe("Mike wins!");
   });   
+
+  test("If A is 5 and B is 6, Joe wins", () => {
+    const a = 5;
+    const b = 6;
+
+    expect(game(a,b)).toBe("Joe wins!");
+  });     
   })
