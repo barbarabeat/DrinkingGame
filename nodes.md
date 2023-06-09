@@ -36,7 +36,7 @@ Tests:
     ✅
 
 Session 1 🍅:
-
+Domain and tests written;
 
 Session 2 🍅:
 

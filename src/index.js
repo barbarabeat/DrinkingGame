@@ -1,5 +1,5 @@
 function game(a,b) {
-  // TODO
+  return "Non-drinkers can't play";
 }
 
 module.exports = {

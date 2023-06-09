@@ -1,9 +1,8 @@
 const { game } = require("../src/index");
 
 describe('Drinking Game tests', () => {
-  // test("", () => {
-
+  test("If Mike and Joe don't drink, it should be Non-drinkers can't play", () => {
   
-  //   expect(game()).toBe(false);
-  // });
+    expect(game(0,0)).toBe("Non-drinkers can't play");
+  });
   })
