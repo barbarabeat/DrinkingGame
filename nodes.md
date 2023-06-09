@@ -36,7 +36,8 @@ Tests:
     ✅
 
 Session 1 🍅:
-Domain and tests written;
+Domain and tests written, tests done until 4;
+Pomodoro interrupted at 3 minutes.
 
 Session 2 🍅:
 
