@@ -20,7 +20,11 @@ Before Session 🍅:
 
 Domain:
 
-
+- The problem doesn't describe who begins always. So, because of the example, it will be Mike;
+- Each time, the beer increases 1. It means, 1,2,3,4...;
+- If no one drinks, the result is "Non-drinkers can't play";
+- The function receives how many each player drunk;
+- Else, the result is who winner the game.
 
 Tests:
     - 1.  ✅
